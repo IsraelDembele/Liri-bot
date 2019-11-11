@@ -11,6 +11,7 @@ module.exports = function spotifyFunction(song){
         console.log(Object.keys(data.tracks.items[0]));
 
         console.log("Artiste Name: " + data.tracks.items[0].artists[0].name);
-        console.log("Track: " + data.tracks.items[0].name);
+        console.log("Track: " + data.tracks.items[0].name); 
+        console.log("date of the event:" + data.tracks.itemd[0].date);
     });    
 }
