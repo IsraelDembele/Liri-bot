@@ -1,4 +1,4 @@
-require("dotenv").config(); 
+// require("dotenv").config(); 
 var spotifyFunction = require("./spotify"); 
 var omdb = require("./omdb"); 
 var keys = require("./keys"); 
