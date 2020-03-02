@@ -7,6 +7,7 @@ How does it works?
  LIRI is a command line node app that takes in parameters and returns the relative data using some API. It can be:
  node liri spotify-this "song name".  
 
-![](images/png1%20spaces.png)
+![](/images/png2.png)
 
 
+![](/images/png1.png)
